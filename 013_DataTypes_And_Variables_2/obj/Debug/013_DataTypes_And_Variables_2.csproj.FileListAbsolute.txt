@@ -1,0 +1,8 @@
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\obj\Debug\013_DataTypes_And_Variables_2.csproj.AssemblyReference.cache
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\obj\Debug\013_DataTypes_And_Variables_2.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\obj\Debug\013_DataTypes_And_Variables_2.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\bin\Debug\013_DataTypes_And_Variables_2.exe.config
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\bin\Debug\013_DataTypes_And_Variables_2.exe
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\bin\Debug\013_DataTypes_And_Variables_2.pdb
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\obj\Debug\013_DataTypes_And_Variables_2.exe
+C:\SRC\CSharp\013_DataTypes_And_Variables_2\013_DataTypes_And_Variables_2\obj\Debug\013_DataTypes_And_Variables_2.pdb
